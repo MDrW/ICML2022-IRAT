@@ -16,7 +16,7 @@ Adding or changing the parameters in the .sh files or in command line will condu
 
 ## Citation
 If you find this repository useful, please cite our paper:
-
+```
 @inproceedings{DBLP:conf/icml/WangZHWZGHLF22,
   author    = {Li Wang and
                Yupeng Zhang and
@@ -43,3 +43,4 @@ If you find this repository useful, please cite our paper:
   year      = {2022},
   url       = {https://proceedings.mlr.press/v162/wang22ao.html}
 }
+```
