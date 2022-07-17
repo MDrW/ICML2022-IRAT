@@ -10,7 +10,7 @@ There are two ways to conduct an experiment and train.
 
 1. The bash scripts of these experiments are presented in directory "irat_code/scripts". We can run these bash scripts directly to start an experiments. 
 
-2. We also can run the files in directory"irat_code/scripts/train" use python3. 
+2. We also can run the files in directory"irat_code/scripts/train" using python3. 
 
 Adding or changing the parameters in the .sh files or in command line will conduct different experiments and get different results. The parameters in .sh files are default parameters used in experiments of paper "Individual Reward Assisted Multi-Agent Reinforcement Learning".
 
